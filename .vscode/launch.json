@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HealthcareInventoryManagementSystemApplication<Healthcare_Inventory_Management_System>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hims.HealthcareInventoryManagementSystemApplication",
+            "projectName": "Healthcare_Inventory_Management_System",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
